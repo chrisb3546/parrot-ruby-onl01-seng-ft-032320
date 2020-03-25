@@ -9,6 +9,8 @@ end
 
 parrot
 
+parrot
+
 parrot("Pretty bird")
 
 
