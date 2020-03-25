@@ -3,15 +3,10 @@
 
 def parrot(phrase = "Squawk!")
  puts "Squawk!"
+ puts phrase
  "Squawk!"
+ 
 end
 
 parrot
 
-def parrot(phrase)
-  puts phrase
-  phrase
-end
-
-parrot("Pretty 
-bird")
